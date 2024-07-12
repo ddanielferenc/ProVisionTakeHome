@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pEZowXpH0J0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\Documents\\GitHub\\ProVisionTakeHome\\ProVisionTakeHome\\ProVisionTakeHome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\cliwrap\\3.6.6\\cliwrap.3.6.6.nupkg.sha512"
+  ],
+  "logs": []
+}
