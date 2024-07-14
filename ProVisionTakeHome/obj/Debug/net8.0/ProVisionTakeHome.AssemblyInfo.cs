@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProVisionTakeHome")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+935040f63834734cf01a54f1ece04271488d3857")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProVisionTakeHome")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProVisionTakeHome")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

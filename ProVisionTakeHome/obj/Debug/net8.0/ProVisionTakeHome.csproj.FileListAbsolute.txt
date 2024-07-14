@@ -31,3 +31,4 @@ C:\Users\Daniel\Documents\GitHub\ProVisionTakeHome\ProVisionTakeHome\obj\Debug\n
 C:\Users\Daniel\Documents\GitHub\ProVisionTakeHome\ProVisionTakeHome\bin\Debug\net8.0\CliWrap.dll
 C:\Users\Daniel\Documents\GitHub\ProVisionTakeHome\ProVisionTakeHome\obj\Debug\net8.0\ProVisionTakeHome.csproj.AssemblyReference.cache
 C:\Users\Daniel\Documents\GitHub\ProVisionTakeHome\ProVisionTakeHome\obj\Debug\net8.0\ProVisio.59A4BB5C.Up2Date
+C:\Users\Daniel\Documents\GitHub\ProVisionTakeHome\ProVisionTakeHome\obj\Debug\net8.0\ProVisionTakeHome.sourcelink.json
